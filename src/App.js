@@ -34,12 +34,14 @@ import Counter from './Counter'
 import Effect from './Effect'
 import Reducer from './Reducer'
 import Footer from './Footer'
+import Callback from './Callback'
 export default function App() {
   return (
     <div><Counter/>
     <Effect/>
-    <Reducer/>
+    <Reducer/>  <Callback/>
     <Footer/>
+  
     </div>
   )
 }
