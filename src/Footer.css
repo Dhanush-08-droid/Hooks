@@ -1,0 +1,17 @@
+.foot-container{
+    margin-top: 300px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    height:50vh;
+    background-color: black;
+}
+.o{
+    color:aliceblue;
+}
+.wo{
+    color:white;
+}
+p{
+    margin: 50px;
+}
